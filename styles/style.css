@@ -1,0 +1,60 @@
+.raleway-normal {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 200px;
+}
+.logo{
+    font-family: sans-serif;
+    font-weight: 900;
+    color: #4E47FF;
+    font-size: 34px;
+}
+.btn-primary{
+    background-color: #4E47FF;
+    font-weight: bold;
+    font-size: 16px;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 5px;
+    
+}
+
+.header{
+    background-image: url(../Assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-position: top left, bottom right;
+    max-width: 1440px;
+    height: 698px;
+}
+
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0 20px;
+    width: 100%;
+}
+.banner-content{
+    max-width: 900px; /* match your Figma width */
+    margin-top: 100px;
+}
+.banner-title{
+    font-size: 65px;
+    font-weight: bold;
+    color: #000000; /* Use black text as in Figma */
+    line-height: 1.2;
+    text-align: center; /* Center both lines */
+    margin-bottom: 30px;
+    
+}
