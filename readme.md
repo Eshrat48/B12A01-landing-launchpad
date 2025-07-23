@@ -1,131 +1,61 @@
-## 🌟 WELCOME TO ( সহজ সরল সিম্পল ) ASSIGNMENT-001 😎
+# Responsive Landing Page
 
-### 📅 Deadline For 60 marks: 11th July, 2025 (11:59 pm ⏱️)
+## Project Overview
 
-### 📅 Deadline For 50 marks: 12th July, 2025 (11:59 pm ⏱️)
+This project is a modern and fully responsive landing page built using only HTML and CSS. It was designed as part of a web development practice assignment to strengthen my understanding of semantic HTML, layout techniques, and custom styling without relying on any frameworks or libraries.
 
-### 📅 Deadline For 30 marks:\*\* Any time after 12th July.
-
----
-
-## ✅ Main Requirements (50 Marks)
-
-### 1. Navbar Section
-
-- **Logo/Website name** on the left.
-- **Sign Up Button** on the right.
+The landing page includes essential UI components such as a navigation bar, hero section, call-to-action blocks, feedback section, and contact form. The layout is designed to be clean, structured, and mobile-friendly.
 
 ---
 
-### 2. Banner Section (10 Marks)
+## Features
 
-- **Heading** in the center. (3)
-- **Stay Focused** button in the center. (3)
+- **Responsive Navbar**  
+  A fixed top navigation bar featuring the website name on the left and a "Sign Up" button on the right.
 
----
+- **Hero Banner**  
+  A centered heading with a background image and a clear call-to-action button ("Stay Focused").
 
-## 🚩 The Navbar and Banner will have an Background Image
+- **Action Section**  
+  A two-column layout showcasing a title, subtitle, and live preview button on the left, with a supporting image on the right.
 
-<img width="100%" src="./ui/banner.png">
+- **Productive Users Section**  
+  A background-highlighted area that includes a title and three horizontally-aligned informational blocks.
 
-### 3. Action Section
+- **Contact Section**  
+  Includes a title on the left and a fully functional contact form on the right with labeled input fields (Name, Email, and Message), along with a "Get in Touch" button.
 
-- Left Side:
-  - Title
-  - Subtitle
-  - Launch Live Preview Button
-- Right Side:
-  - Image
+- **User Feedback Section**  
+  Displays user reviews with star icons, reviewer images, names, and dates in a neat layout.
 
-<img width="100%" src="./ui/action.png">
+- **Footer**  
+  A centered footer with the website name, a short description, and navigation links (Home, About, How It Works, Services).
 
----
-
-### 4. Productive Users Section
-
-- **Background color** to separate the section.
-- **Centered title**.
-- **3 data with subtitle** placed side by side.
-
-<img width="100%" src="./ui/productive_user.png">
+- **Button Animations**  
+  Smooth hover animations applied consistently to all buttons for improved interactivity.
 
 ---
 
-### 5. Let’s Get In Touch Section (10 Marks)
+## Technologies Used
 
-- Left Side:
-  - Section Title
-- Right Side:
-  - Label + Input for Name, Email & Message
-  - Get in Touch Button
+- **HTML5**  
+  For semantic page structure and content layout.
 
-<img width="100%" src="./ui/newsletter.png">
+- **CSS3**  
+  For styling, layout design, responsiveness, and animations.
 
 ---
 
-### 6. Footer Section
+## Live Demo & Source Code
 
-- Centered:
-  - Website name
-  - Subtitle
-  - Links: Home, About, How it works, Services
-
-## <img width="100%" src="./ui/footer.png">
-
-## 🧪 CHALLENGES (10 Marks)
-
-### 7. Users’ Feedback Section
-
-- Star icon
-- Title and Subtitle
-- Reviewer Image, Name, and Date 
-
- <img width="100%" src="./ui/review.png">
+- **Live Website:** [(https://eshrat48.github.io/B12A01-landing-launchpad/)]
+- **GitHub Repository:** [https://github.com/Eshrat48/B12A01-landing-launchpad.git]
 
 ---
 
-### 8. Button Animation 
+## Learning Outcome
 
-- Hover effect or animation on the all the buttons.
-
-<img width="100%" src="https://resources.nicepage.com/977/118977/hover-effect-duration.gif">
+This project helped me practice structuring HTML content semantically, styling layouts with pure CSS, creating responsive components without frameworks, and building visually balanced web sections from scratch.
 
 ---
-
-## ❓ Common Queries & Answers
-
-> ❓ আমি কি অন্য ইমেজ ব্যবহার করতে পারবো?  
-> ✅ হ্যা, যেকোন রিলেভ্যান্ট ইমেজ ব্যবহার করা যাবে।
-
-> ❓ আমি কি এলাইনমেন্ট আলাদা ভাবে করে মনের মতো ডিজাইন করতে পারবো?  
-> ❌ না। তোমাকে এলাইনমেন্ট ঠিক রাখতে হবে।
-
-> ❓ আমি কি ডিজাইনে কালার চেঞ্জ করতে পারবো ?  
-> ✅ হ্যা , তুমি চাইলে রিলেভ্যান্ট কালার ব্যবহার করতে পারো।
-
-> ❓ আমাকে কি একদম পারফেক্ট মার্জিন প্যাডিং দিয়ে একদম পিক্সেল পারফেক্ট পেজ বানাতে হবে?  
-> ❌ না। তুমি ফিগমা দেখে নিজের মতো মার্জিন প্যাডিং ব্যবহার করতে পারো।
-
----
-
-## ⚙️ Technology Stack
-
-- HTML
-- CSS
-- ⚠️ **No frameworks or libraries** allowed.
-
----
-
-## 📌 Rules
-
-- ✅ Minimum **5 meaningful commits** required.
-- ❌ No Lorem Ipsum or dummy placeholder text. Use relevant content only.
-
----
-
-## 🔗 What to Submit
-
-- 📂 **GitHub Repository:**
-- 🌐 **Live Link:**
-
-# Let's Code and Achieve your Dream 🎯
+ “Simplicity is the soul of efficiency.” – Austin Freeman
